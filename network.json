@@ -1,0 +1,18 @@
+{
+    "hostname": "Branch1",
+    "interface": "GigabitEthernet0/0",
+    "ip": "192.168.1.1",
+    "mask": "255.255.255.0",
+    "description": "ISP Connection",
+
+    "vlans": [
+        {
+            "id": 10,
+            "name": "HR"
+        },
+        {
+            "id": 20,
+            "name": "Finance"
+        }
+    ]
+}
