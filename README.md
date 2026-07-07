@@ -211,13 +211,7 @@ py main.py
 
 ---
 
-## 👩‍💻 Author
 
-**Joanne Mascarenhas**
-
-Bachelor of Computer Applications (BCA)
-
-Aspiring Software Engineer | Network Automation Enthusiast
 
 ---
 
